@@ -1,4 +1,4 @@
-# gorepotemplate
+# plot
 
 > Tricky and fun utilities for Go programs on macOS.
 
