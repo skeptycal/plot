@@ -1,0 +1,5 @@
+package plot // import "github.com/skeptycal/_play/plot"
+
+Package plot contains utilities for macOS.
+
+func Example()
